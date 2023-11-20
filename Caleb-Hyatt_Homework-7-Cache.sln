@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caleb-Hyatt_Homework-7-Cache", "Caleb-Hyatt_Homework-7-Cache\Caleb-Hyatt_Homework-7-Cache.csproj", "{58C6C287-1060-462E-9855-5DF5434DCDEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C6C287-1060-462E-9855-5DF5434DCDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C6C287-1060-462E-9855-5DF5434DCDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C6C287-1060-462E-9855-5DF5434DCDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C6C287-1060-462E-9855-5DF5434DCDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD166F3-207C-413E-85FC-B8021509C0EA}
+	EndGlobalSection
+EndGlobal
